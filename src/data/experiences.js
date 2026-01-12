@@ -1,4 +1,4 @@
-const experiences = [
+export const experiences = [
     {
         id:"boat-sunset",
         title:"Sunset Boat Tour",
